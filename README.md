@@ -1,7 +1,5 @@
 # 💻 Harsh Vasita - Front-End Developer
 
-![Harsh Vasita Logo](images/logo.png)
-
 Welcome to my personal portfolio website! My name is Harsh Vasita, I am passionate about responsive websites and creating digital experience.
 
 This portfolio documents my web development, multimedia, technical skills and creative process. It is a combination of my interests in front-end development, visual design, video editing and 3D content creation.
