@@ -22,7 +22,7 @@ This portfolio website was created to showcase my skills, projects, and experien
 
 ## 🛠️ Technologies Used
 
-- HTML5
+- **HTML5**
 - **CSS3**
 - **CSS Grid**
 - **Sass (SCSS)**
