@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website! My name is Harsh Vasita, I am passionate about responsive websites and creating digital experience.
 
-This portfolio showcases my web development projects, multimedia work, technical skills, and creative journey. It brings together my interests in front-end development, visual design, video editing, and 3D content creation.
+This portfolio documents my web development, multimedia, technical skills and creative process. It is a combination of my interests in front-end development, visual design, video editing and 3D content creation.
 
 ## 💡 Purpose
 
@@ -44,8 +44,8 @@ No installation required, simply download the zip file and extract.
 - Read each of the case studies and you should learn about each project.
 - See some examples of my creative work in my demo reel.
 - Click on About Me to find out more about me.
-- Contact us in the contact section.
-- Resize the browser to test the responsive layout on desktop, tablet, and mobile devices.
+- Contact us in the Contact section.
+- Resize browser to view responsive layout on desktop, tablet and mobile devices.
 
 ## 🕒 History
 
