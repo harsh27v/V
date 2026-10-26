@@ -1,20 +1,20 @@
-# 💻 Harsh Vasita - Front-End Developer
+## 💻 Harsh Vasita - Front-End Developer.
 
-Welcome to my personal portfolio website! My name is Harsh Vasita, I am passionate about responsive websites and creating digital experience.
+This is my personal portfolio website! I am passionate about responsive websites and making digital experience, Harsh Vasita.
 
-This portfolio documents my web development, multimedia, technical skills and creative process. It is a combination of my interests in front-end development, visual design, video editing and 3D content creation.
+This is my web development, multimedia and technical skills and creative process portfolio. It's a mix between my interests in front-end development, visual design, video editing and 3D content creation.
 
 ## 💡 Purpose
 
-This is my personal portfolio website to demonstrate my skills, projects and experience as a Front-End Developer and Multimedia Designer.
+It's my personal portfolio website in order to show off my skills, projects and experience as a Front-End Developer and Multimedia Designer.
 
 ## ✨ Features
 
-- A single-page website portfolio that responds to the contents of the page.
-- This is a single project case study page.
-- Responsive navigation, featuring a mobile hamburger menu.
-- Video demo reel with Plyr integration.
-- Using scroll animations and interactive effects.Using scroll animations and interactive effects.
+- One-page website portfolio that reacts to the contents of the page.
+- Single project case study page.
+- Responsive navigation, with a mobile hamburger menu.
+- Video demo reel (integration with Plyr).
+- Smooth scroll effects and interactive effects.
 - Improved maintainable style organisation using Sass.
 - Social links to GitHub and LinkedIn, and resume links.
 
@@ -33,33 +33,33 @@ This is my personal portfolio website to demonstrate my skills, projects and exp
 
 ## 💻 Installation
 
-No installation required, simply download the zip file and extract.
+The file does not require any installation, just download and extract the zip file.
 
 ## 🧭 Usage
 
 - Have a look at my homepage to get to know my work.
 - View the featured projects and selected work.
 - Read each of the case studies and you should learn about each project.
-- See some examples of my creative work in my demo reel.
+- View some of my creative work in my demo reel.
 - Click on About Me to find out more about me.
-- Contact us in the Contact section.
-- Resize browser to view responsive layout on desktop, tablet and mobile devices.
+- Contact me in the Contact section.
+Resize browser to see the responsive layout on desktop, tablet and mobile.
 
 ## 🕒 History
 
-- The creation of a personal portfolio website.
-- Development of a responsive layout and navigation.Development of responsive layout and navigation.
-- Organized Sass stylesheet structure.
-- Portfolio projects and case study development
-- Integrating multimedia demo reels.Incorporating a Multimedia demo reel.
+- Developing own website portfolio.
+- Creation of a flexible design and user experience.
+- Structured Sass format for the organizations.
+- To develop portfolio projects and case studies.
+- Including multimedia demo reels.
 
 ## 👨‍💻 About Me
 
 **Harsh Vasita**  
 Front-End Developer
-Interactive Media Design — Fanshawe College
+Interactive Media Design - Fanshawe College
 
-My passion is marrying code and creativity to create responsive websites and captivating digital experiences. I'm still learning new technologies and honing my web skills and multimedia production and interaction skill sets.
+My love is code and creativity, to create a responsive website and engaging digital experience. I'm continuing to discover new technologies, practice my web skills, and my skill set in producing and interacting with multimedia.
 
 ## 📄 License
 MIT License
