@@ -43,7 +43,7 @@ The file does not require any installation, just download and extract the zip fi
 - View some of my creative work in my demo reel.
 - Click on About Me to find out more about me.
 - Contact me in the Contact section.
-Resize browser to see the responsive layout on desktop, tablet and mobile.
+- Resize browser to see the responsive layout on desktop, tablet and mobile.
 
 ## 🕒 History
 
@@ -56,8 +56,8 @@ Resize browser to see the responsive layout on desktop, tablet and mobile.
 ## 👨‍💻 About Me
 
 **Harsh Vasita**  
-Front-End Developer
-Interactive Media Design - Fanshawe College
+- Front-End Developer
+- Interactive Media Design - Fanshawe College
 
 My love is code and creativity, to create a responsive website and engaging digital experience. I'm continuing to discover new technologies, practice my web skills, and my skill set in producing and interacting with multimedia.
 
